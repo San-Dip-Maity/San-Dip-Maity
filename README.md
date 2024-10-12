@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dvodvtbqr/image/upload/v1728746022/github-header-image_xijtef.png)]
+![MasterHead](https://res.cloudinary.com/dvodvtbqr/image/upload/v1728746022/github-header-image_xijtef.png)
 <h1 align="center">Hi 👋, I'm Sandip</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dvodvtbqr/image/upload/v1728745591/animated_gyiucs.gif">                                                                               
