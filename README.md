@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sandipmaity21052003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16JpgR0SZoF_8jdMrE8vD68sMufvw8uXU/view?usp=sharing](https://drive.google.com/file/d/16JpgR0SZoF_8jdMrE8vD68sMufvw8uXU/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1X4hbPdUAHEz5kYTiaET-EhupoaKRMiSC/view?usp=sharing)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100068079636990) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/san_dip2105/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sandipmaity21) 
